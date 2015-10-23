@@ -1,0 +1,17 @@
+#include "Snap.h"
+
+class Grafo
+{
+    private:
+        PNGraph Graph;
+    public:
+        void insertNode(int id){}
+        void insertVertex(int srcId, int desId){}
+        void removeNode(int id){}
+        void removeVertex(int srcId, int destId){}
+        void printDFS(){}
+        void printBFS(){}
+
+
+
+}
